@@ -1,0 +1,5 @@
+print("What's your favourite football team?", end=' ')
+team = input("Your favourite team: ")
+print("What position did they finish last year?", end=' ')
+position = input("Position: ")
+print(f'{team} is your favourite team and they finished in position {position} last year.')
