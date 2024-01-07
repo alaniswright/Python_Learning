@@ -1,4 +1,4 @@
-# Python learning 2021
+# Python learning
 Here are my attempts to learn Python.  So far this includes:
 
 - Finishing almost all of the Learn Python the Hard Way course
