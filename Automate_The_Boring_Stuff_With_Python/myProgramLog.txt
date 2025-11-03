@@ -1,0 +1,40 @@
+2025-11-02 11:21:01,302 -  DEBUG -  Start of program
+2025-11-02 11:21:01,302 -  DEBUG -  Start of factorial(5)
+2025-11-02 11:21:01,302 -  DEBUG -  i is 0, total is 0
+2025-11-02 11:21:01,302 -  DEBUG -  i is 1, total is 0
+2025-11-02 11:21:01,302 -  DEBUG -  i is 2, total is 0
+2025-11-02 11:21:01,303 -  DEBUG -  i is 3, total is 0
+2025-11-02 11:21:01,303 -  DEBUG -  i is 4, total is 0
+2025-11-02 11:21:01,303 -  DEBUG -  i is 5, total is 0
+2025-11-02 11:21:01,303 -  DEBUG -  End of factorial(5)
+2025-11-02 11:21:01,303 -  DEBUG -  End of program
+2025-11-02 11:37:05,667 -  DEBUG -  Start of program
+2025-11-02 11:37:05,667 -  DEBUG -  Start of factorial(5)
+2025-11-02 11:37:05,667 -  DEBUG -  i is 0, total is 0
+2025-11-02 11:37:05,667 -  DEBUG -  i is 1, total is 0
+2025-11-02 11:37:05,667 -  DEBUG -  i is 2, total is 0
+2025-11-02 11:37:05,667 -  DEBUG -  i is 3, total is 0
+2025-11-02 11:37:05,667 -  DEBUG -  i is 4, total is 0
+2025-11-02 11:37:05,667 -  DEBUG -  i is 5, total is 0
+2025-11-02 11:37:05,667 -  DEBUG -  End of factorial(5)
+2025-11-02 11:37:05,667 -  DEBUG -  End of program
+2025-11-02 11:47:50,209 -  DEBUG -  Start of program
+2025-11-02 11:47:50,212 -  DEBUG -  Start of factorial(5)
+2025-11-02 11:47:50,212 -  DEBUG -  i is 0, total is 0
+2025-11-02 11:47:50,212 -  DEBUG -  i is 1, total is 0
+2025-11-02 11:47:50,212 -  DEBUG -  i is 2, total is 0
+2025-11-02 11:47:50,212 -  DEBUG -  i is 3, total is 0
+2025-11-02 11:47:50,212 -  DEBUG -  i is 4, total is 0
+2025-11-02 11:47:50,212 -  DEBUG -  i is 5, total is 0
+2025-11-02 11:47:50,212 -  DEBUG -  End of factorial(5)
+2025-11-02 11:47:50,213 -  DEBUG -  End of program
+2025-11-02 11:48:02,229 -  DEBUG -  Start of program
+2025-11-02 11:48:02,230 -  DEBUG -  Start of factorial(5)
+2025-11-02 11:48:02,230 -  DEBUG -  i is 0, total is 0
+2025-11-02 11:48:02,230 -  DEBUG -  i is 1, total is 0
+2025-11-02 11:48:02,230 -  DEBUG -  i is 2, total is 0
+2025-11-02 11:48:02,230 -  DEBUG -  i is 3, total is 0
+2025-11-02 11:48:02,230 -  DEBUG -  i is 4, total is 0
+2025-11-02 11:48:02,230 -  DEBUG -  i is 5, total is 0
+2025-11-02 11:48:02,230 -  DEBUG -  End of factorial(5)
+2025-11-02 11:48:02,231 -  DEBUG -  End of program
